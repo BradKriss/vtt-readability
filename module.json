@@ -2,7 +2,7 @@
   "name": "vtt-readability",
   "title": "VTT Readability",
   "description": "Font Tweaks to my preference",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "bradkriss",
   "scripts": [ "script.js" ],
   "styles": [ "style.css" ],
@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/BradKriss/vtt-readability",
   "manifest": "https://raw.githubusercontent.com/BradKriss/vtt-readability/master/module.json",
-  "download": "https://github.com/BradKriss/vtt-readability/archive/0.0.2.zip",
+  "download": "https://github.com/BradKriss/vtt-readability/archive/0.0.3.zip",
   "minimumCoreVersion": "0.6.4",
   "compatibleCoreVersion": "0.6.4"
 }
