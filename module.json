@@ -10,7 +10,7 @@
   "packs": [],
   "url": "https://github.com/BradKriss/vtt-readability",
   "manifest": "https://raw.githubusercontent.com/BradKriss/vtt-readability/master/module.json",
-  "download": "https://github.com/BradKriss/vtt-readability/releases/download/0.0.1/vtt-readability.zip",
+  "download": "https://github.com/BradKriss/vtt-readability/archive/0.0.1.zip",
   "minimumCoreVersion": "0.6.4",
   "compatibleCoreVersion": "0.6.4"
 }
