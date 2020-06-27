@@ -1,5 +1,24 @@
 .editor-content {
-	font-family: Roboto !important;
-	line-height: 30px !important;
-	font-size: 16px !important;
+	font-family: Roboto;
+	line-height: 24px;
+	font-size: 16px;
+	padding: 16px;
+}
+
+.editor-content blockquote {
+	background: #e6e7ec;
+	border-color: rgb(151, 154, 164);
+	border-left-width: 1px;
+	border-right-width: 1px !important;
+	border-right-style: solid;
+	margin-right:20px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.editor-content h1 {
+	margin-bottom:20px;
 }
