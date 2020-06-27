@@ -1,0 +1,16 @@
+{
+  "name": "vtt-readability",
+  "title": "VTT Readability",
+  "description": "Font Tweaks to my preference",
+  "version": "0.0.1",
+  "author": "bradkriss",
+  "scripts": [ "script.js" ],
+  "styles": [ "style.css" ],
+  "esmodules": [],
+  "packs": [],
+  "url": "https://github.com/BradKriss/vtt-readability",
+  "manifest": "https://raw.githubusercontent.com/BradKriss/vtt-readability/master/module.json",
+  "download": "https://github.com/BradKriss/vtt-readability/releases/download/0.0.1/fantasy-ui.zip",
+  "minimumCoreVersion": "0.6.4",
+  "compatibleCoreVersion": "0.6.4"
+}
