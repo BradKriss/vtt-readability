@@ -39,3 +39,9 @@
 	margin-right: 16px;
 
 }
+
+.item-summary {
+    font-family: Roboto;
+    font-size: 14px !important;
+    line-height: 22px !important;
+}
